@@ -25,11 +25,7 @@ const Hero = () => {
             technology in the software industry.Also a dedicated professional
             with a passion for seamless implementation and exceptional customer
             support.<br/>I've had the privilege of contributing my skills and
-            knowledge to two esteemed product-based companies, where I played a
-            pivotal role in developing innovative solutions and driving product
-            excellence.<br/>My time at these companies has equipped me with a deep
-            understanding of software development, from concept to deployment.
-          </p>
+            knowledge to two esteemed product-based companies</p>
         </div>
       </div>
 
